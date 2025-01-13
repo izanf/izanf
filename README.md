@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izanf.
 - 👀 I’m interested in almost all about technology
-- 🌱 I’m currently learning GoLang, AWS and IoT
+- 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on project with social impact and good tech challenges
 - 📫 How to reach me izanf.dev
 
